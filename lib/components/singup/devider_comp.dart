@@ -30,8 +30,8 @@ class Divider extends StatelessWidget {
   Expanded buildDivider() {
     return Expanded(
       child: Divider(
-        color: Colors.black,
-        height: 1.5,
+        //color: Colors.black,
+      //  height: 1.5,
       ),
     );
   }
